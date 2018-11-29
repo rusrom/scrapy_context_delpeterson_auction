@@ -20,8 +20,8 @@ Spider has 1 input argumet **auction ID** that can be founded in auction URL(red
 ![delpeterson](https://i.imgur.com/xvwiymn.png)
 
 ### Path for saving images
-Each auction URL has **catalogue-id**  
-![argument](https://i.imgur.com/RZn6l1V.jpg)
+Each auction URL has **auctionId** GET parameter(red area)  
+![argument](https://i.imgur.com/m0bvkQo.jpg)
 
 For each auction on AWS S3 folder will be created with corresponding name
 
