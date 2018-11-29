@@ -25,7 +25,7 @@ Each auction URL has **auctionId** GET parameter(red area)
 
 For each auction on AWS S3 folder will be created with corresponding name
 
-![aws](https://i.imgur.com/m0bvkQo.jpg)
+![aws](https://i.imgur.com/9HOfHNL.jpg)
 
 ### Rule for images names
 * 1st digit - lot number
@@ -35,4 +35,8 @@ For each auction on AWS S3 folder will be created with corresponding name
 Filenames for 5 images of lot number 1:  
 1_1.jpg, 1_2.jpg, 1_3.jpg, 1_4.jpg, 1_5.jpg
 
-![lot_photos](https://i.imgur.com/pp6DLUb.jpg)
+![lot_photos](https://i.imgur.com/szSOyGr.jpg)
+
+### Result on scrapinghub
+
+![scrapinghub](https://i.imgur.com/oX9CMVZ.jpg)
